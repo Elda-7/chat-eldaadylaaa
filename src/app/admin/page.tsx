@@ -41,11 +41,11 @@ export default function AdminLoginPage() {
       <div className="w-full max-w-md">
         {/* Logo */}
         <div className="text-center mb-8">
-          <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-blue-600 to-blue-700 rounded-2xl shadow-lg shadow-blue-500/30 mb-4">
-            <i className="fas fa-robot text-2xl text-white" />
+          <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-indigo-500 via-blue-500 to-pink-500 rounded-2xl shadow-lg shadow-indigo-500/30 mb-4">
+            <i className="fas fa-wand-magic-sparkles text-2xl text-white" />
           </div>
-          <h1 className="text-2xl font-bold text-white">Sontoloyo AI</h1>
-          <p className="text-blue-300 text-sm mt-1">Admin Dashboard</p>
+          <h1 className="text-2xl font-bold text-white">venus-AI-Asisten</h1>
+          <p className="text-indigo-200 text-sm mt-1">Admin Dashboard</p>
         </div>
 
         {/* Card */}
@@ -121,7 +121,7 @@ export default function AdminLoginPage() {
         </div>
 
         <p className="text-center text-slate-600 text-xs mt-4">
-          &copy; 2026 Sontoloyo AI · adi-muhamad.my.id
+          &copy; 2026 venus-AI-Asisten · adi-muhamad.my.id
         </p>
       </div>
     </div>

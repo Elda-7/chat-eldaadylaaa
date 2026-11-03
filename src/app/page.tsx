@@ -110,7 +110,7 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col w-full bg-gray-50 dark:bg-slate-900" style={{ height: '100dvh' }}>
+    <div className="flex flex-col w-full bg-gradient-to-br from-indigo-50 via-white to-pink-50 dark:from-[#0b0e1b] dark:via-[#15152c] dark:to-[#211426] transition-colors duration-300" style={{ height: '100dvh' }}>
       <Navbar theme={theme} onToggleTheme={toggleTheme} />
       <main
         className="flex-1 max-w-4xl w-full mx-auto px-4 py-4 flex flex-col"

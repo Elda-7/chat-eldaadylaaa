@@ -1,13 +1,13 @@
 {
-  "name": "Sontoloyo AI",
-  "short_name": "Sontoloyo AI",
-  "description": "Sontoloyo AI - AI Chatbot untuk blog adi-muhamad.my.id",
+  "name": "venus-AI-Asisten",
+  "short_name": "Venus AI",
+  "description": "Venus AI Asisten — teman ngobrol pintar dengan nuansa hangat.",
   "display": "standalone",
   "start_url": "/",
   "scope": "/",
   "orientation": "portrait",
-  "theme_color": "#2563eb",
-  "background_color": "#0f172a",
+  "theme_color": "#6477f5",
+  "background_color": "#f7f8ff",
   "categories": ["productivity", "utilities"],
   "icons": [
     {
